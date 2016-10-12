@@ -20,7 +20,7 @@ namespace MoviesFeedBacks.Controllers
 
         public AccountController()
         {
-            int a = 2;
+            int a = 3;
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
